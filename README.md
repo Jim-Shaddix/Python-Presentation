@@ -6,7 +6,7 @@
 This is a presentation I was asked to develop for the Colorado State University
 Graduate Physics Majors.
 
-* The slides for the presentation can be found [here](https://slides.com/jimshaddix/python-for-data-analysis#/)
+* [slide presentation](https://slides.com/jimshaddix/python-for-data-analysis#/)
 
 * The Jupyter Notebooks describe: 
     1. some of the feattures of Jupyter Notebook / Lab
